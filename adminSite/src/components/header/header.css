@@ -1,0 +1,40 @@
+#sub-header {
+    width: 30%;
+    top: 50%;
+    left: 50%;
+    padding-bottom: 10px;
+}
+
+.card-parent {
+    width: 100%;
+    height: 100%;
+}
+
+#left {
+    width: 10%;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    orientation: landscape;
+    position: sticky;
+    z-index: 99;
+    height: fit-content;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.header-container {
+    background-color: white;
+    height: fit-content;
+    margin-top: 0;
+    width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+}

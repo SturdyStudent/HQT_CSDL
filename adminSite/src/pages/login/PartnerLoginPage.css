@@ -1,0 +1,15 @@
+.login-bg {
+    /* Full height */
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    margin: 0px;
+}
+
+.card-parent {
+    background-image: url(../../assets/images/flight_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
